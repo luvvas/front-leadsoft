@@ -19,6 +19,5 @@ export default createGlobalStyle`
   body {
     min-width: 320px;
     min-height: 100vh;
-    background: "#276678"
   }
 `
